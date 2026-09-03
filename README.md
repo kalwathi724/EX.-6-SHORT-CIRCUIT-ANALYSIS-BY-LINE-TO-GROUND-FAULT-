@@ -38,9 +38,3 @@ neglected.
 Thus short circuit analysis by line to ground fault is performed in etap software and the output is verified
 
 
-
-# CIRCUIT DIAGRAM:
-# OUTPUT:
-# RESULT: 
-Thus short circuit analysis by line to ground fault is performed in etap software and the output is verified
-
